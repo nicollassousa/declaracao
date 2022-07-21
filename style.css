@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 main{
-    background-image: url(/img/img2.jpg);
+    background-color: #000;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -14,7 +14,7 @@ main{
     
 }
 h1{
-    color: #000;
+    color: #fff;
     margin: auto;
     font-size: 1.5em;
     background-size: 300% 300%;
